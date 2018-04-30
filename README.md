@@ -38,17 +38,3 @@ This repository is inspired by this [article](https://mondaynote.com/bezos-a-ceo
 18. Darry Rawlings, [Trupanion](http://investors.trupanion.com/resources/Shareholder-Letters/default.aspx)
 19. Elon Musk, [Tesla](http://ir.tesla.com/downloads.cfm?NumberPerPage=50&Year=&SortOrder=FileDate+Descending "Tesla's Shareholder letter")
 20. Henry Hermann, [Waddell and Reed](http://ir.waddell.com/FinancialDocs)
-
-
-
-
-Letter icon from [pixabay.com](https://pixabay.com/en/letters-icon-send-button-app-logo-1459347/)
-
-
-
-
-
-
-
-
-
