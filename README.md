@@ -1,4 +1,4 @@
-![alt text](https://pixabay.com/en/letters-icon-send-button-app-logo-1459347/)
+![alt text](https://pixabay.com/get/e831b4062bf0063ed1534705fb0938c9bd22ffd41cb314419cf5c27da5/letters-1459347_1920.png)
 # Shareholder Letter
 A curated list of awesome shareholder letters
 
