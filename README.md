@@ -1,6 +1,8 @@
 # Shareholder Letter
 A curated list of awesome shareholder letters
 
+
+
 > If you wou’d not be forgotten,
 >
 > As soon as you are dead and rotten,
