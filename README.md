@@ -17,7 +17,7 @@ A curated list of awesome shareholder letters
 
 This repository is inspired by this [article](https://mondaynote.com/bezos-a-ceo-who-can-write-2f368ee36599 "Bezos : A CEO who can write") and [this](https://github.com/susanli2016/Data-Analysis-with-R/blob/master/buffet-letters.Rmd) project that analyses Warren Buffet's shareholder letter for the last 40 years. For the companies, they are from our readings and [this](https://www.toptal.com/finance/equity-research-analysts/best-shareholder-letters) article.
 
-1. Joey Jacabs, [Acadia](https://www.acadiarealty.com/investors)
+1. Joey Jacobs, [Acadia](https://www.acadiarealty.com/investors)
 2. Maurice Gallagher, [Allegiant](http://ir.allegiantair.com/phoenix.zhtml?c=197578&p=irol-reportsannual)
 3. Jeff Bezos, [Amazon](https://www.google.com "Amazon's Shareholder Letter")
 4. Warren Buffett, [Berkshire Hathaway](http://www.berkshirehathaway.com/letters/letters.html "Berkshire Hathaway's Shareholder Letter")
