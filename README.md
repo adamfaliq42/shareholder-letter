@@ -1,15 +1,18 @@
+![alt text](https://pixabay.com/photo-1459347/)
 # Shareholder Letter
 A curated list of awesome shareholder letters
 
->If you wou’d not be forgotten
+> If you wou’d not be forgotten,
 >
->As soon as you are dead and rotten,
+> As soon as you are dead and rotten,
 >
->Either write things worth reading,
+> Either write things worth reading,
 >
->or do things worth the writing.
+> or do things worth the writing.
 >
-> -Benjamin Franklin-
+> - Benjamin Franklin -
+
+
 
 This repository is inspired by this [article](https://mondaynote.com/bezos-a-ceo-who-can-write-2f368ee36599 "Bezos : A CEO who can write") and [this](https://github.com/susanli2016/Data-Analysis-with-R/blob/master/buffet-letters.Rmd) project that analyses Warren Buffet's shareholder letter for the last 40 years. For the companies, they are from our readings and [this](https://www.toptal.com/finance/equity-research-analysts/best-shareholder-letters) article.
 
@@ -34,6 +37,11 @@ This repository is inspired by this [article](https://mondaynote.com/bezos-a-ceo
 18. Darry Rawlings, [Trupanion](http://investors.trupanion.com/resources/Shareholder-Letters/default.aspx)
 19. Elon Musk, [Tesla](http://ir.tesla.com/downloads.cfm?NumberPerPage=50&Year=&SortOrder=FileDate+Descending "Tesla's Shareholder letter")
 20. Henry Hermann, [Waddell and Reed](http://ir.waddell.com/FinancialDocs)
+
+
+
+
+Letter icon from [pixabay.com](https://pixabay.com/en/letters-icon-send-button-app-logo-1459347/)
 
 
 
