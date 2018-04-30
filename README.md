@@ -2,9 +2,13 @@
 A curated list of awesome shareholder letters
 
 >If you wou’d not be forgotten
+>
 >As soon as you are dead and rotten,
+>
 >Either write things worth reading,
+>
 >or do things worth the writing.
+>
 > -Benjamin Franklin-
 
 This repository is inspired by this [article](https://mondaynote.com/bezos-a-ceo-who-can-write-2f368ee36599 "Bezos : A CEO who can write") and [this](https://github.com/susanli2016/Data-Analysis-with-R/blob/master/buffet-letters.Rmd) project that analyses Warren Buffet's shareholder letter for the last 40 years. For the companies, they are from our readings and [this](https://www.toptal.com/finance/equity-research-analysts/best-shareholder-letters) article.
