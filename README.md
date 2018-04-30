@@ -1,4 +1,4 @@
-![alt text](https://cdn.pixabay.com/photo/2016/06/15/16/47/letters-1459347_640.png =320x320)
+![alt text](https://cdn.pixabay.com/photo/2016/06/15/16/47/letters-1459347_640.png=320x320)
 # Shareholder Letter
 A curated list of awesome shareholder letters
 
