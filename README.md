@@ -1,4 +1,3 @@
-![alt text](https://cdn.pixabay.com/photo/2016/06/15/16/47/letters-1459347_640.png)
 # Shareholder Letter
 A curated list of awesome shareholder letters
 
@@ -10,7 +9,7 @@ A curated list of awesome shareholder letters
 >
 > or do things worth the writing.
 >
-> - Benjamin Franklin -
+>  Benjamin Franklin
 
 
 
